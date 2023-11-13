@@ -1,3 +1,5 @@
 # COMP2140-Club-Management-Software
-
-# This is Mickoy editing
+# Group Members:
+# McKoy Banton;
+# Mickoy Banton;
+# Davia Howard;
