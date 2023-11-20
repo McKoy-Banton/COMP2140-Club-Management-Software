@@ -17,5 +17,7 @@
 - **Club Recommendations:** Students can discover and explore clubs based on their interests.
 - **Display User Profile:** Users can be displayed their user profile.
 - **Register Club:** Club Leaders can register the club into the system.
+
+
   > [!NOTE]
   The features above is a summary of what the software does, THE OFFICAL REQUIRMENTS ARE LISTED IN THE SUBMITTED SRS DOCUMENT and FINAL DOCUMENT.
