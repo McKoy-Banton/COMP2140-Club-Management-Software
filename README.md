@@ -10,7 +10,7 @@
   - Courtney McGregor
   - Von Harris
 
-## Features
+#### Features
 
 - **Club Registration:** Students can easily register for clubs of their interest.
 - **Notification System:** Club leaders can create and send notifications to club members.
